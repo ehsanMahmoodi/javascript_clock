@@ -1,1 +1,2 @@
-A digital clock made in JavaScript
+# Digital Clock
+create digital clocl with pure js
